@@ -9,9 +9,9 @@
 #include <ESP8266WebServer.h>
 /*************************************************************/
 
-char auth[] = "NpmjvnLSaTJ0z41KHIZfEP39J5baZE4J"; //Your authentification token from the Blynk project
-char ssid[] = "Meilynns Handy (2)";  //Your SSID
-char pass[] = "uyz9e00feb20"; //Your WiFi password
+char auth[] = ""; //Your authentification token from the Blynk project
+char ssid[] = "";  //Your SSID
+char pass[] = ""; //Your WiFi password
 
 /*****************************************************************************************************/
 
