@@ -72,7 +72,7 @@ if(count > 9)
   windspeedAverage = sum/10;
   count = 0;
   Blynk.virtualWrite(V5, windspeedAverage);
-  if (windspeedAverage > 2)                                                           // Sends a notification to your phone if the average wind speed is higher than 75 km/h
+  if (windspeedAverage > 75)                                                           // Sends a notification to your phone if the average wind speed is higher than 75 km/h
   {
     Blynk.logEvent("storm_warning", "average wind speed is higher than 75 km/h");
     Serial.println();
