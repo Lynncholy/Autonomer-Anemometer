@@ -1,5 +1,5 @@
 # Autonomer-Anemometer
-Dieses Projekt befasst sich mit einem Arduino-basierten Anemometer, welches durch Solarenergie betrieben wird und die Windgeschwindigkeit erfassen kann. Das Gerät dient dazu Stürme zu erkennen, die in den Wintermonaten häufiger auftreten und dessen Windgeschwindigkeiten aufzuzeichnen, sodass die Werte mit den Werten vergangener Winterjahre verglichen werden können. Zusätzlich können die gemessenen Werte in Echtzeit an ein mobiles Endgerät gesendet werden. Auf diese Weise können die Werte auch unterwegs eingesehen werden und müssen nicht von Hand ausgelesen werden.
+Dieses Projekt befasst sich mit einem Arduino-basierten Anemometer, welcher durch Solarenergie betrieben wird und die Windgeschwindigkeit erfassen kann. Das Gerät dient dazu Stürme zu erkennen, die in den Wintermonaten häufiger auftreten und dessen Windgeschwindigkeiten aufzuzeichnen, sodass die Werte mit den Werten vergangener Winterjahre verglichen werden können. Zusätzlich können die gemessenen Werte in Echtzeit an ein mobiles Endgerät gesendet werden. Auf diese Weise können die Werte auch unterwegs eingesehen werden und müssen nicht von Hand ausgelesen werden.
 
 ## Bedienungsanleitung
 ### 1. Einrichtung von Blynk
